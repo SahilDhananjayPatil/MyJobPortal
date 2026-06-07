@@ -229,6 +229,7 @@ public class JobDAO {
 			e.printStackTrace();
 		}
 
+		System.out.println("I have added this line");
 		return list;
 
 	}
